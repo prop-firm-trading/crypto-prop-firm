@@ -1,10 +1,10 @@
 ```
-╔═══════════════════════════════════════════════════╗
-║  CRYPTO PROP FIRMS 2026                          ║
-║  Prop firms for trading crypto with firm         ║
-║  capital. FundedNext, FTMO, and how to           ║
-║  spot the scams.                                 ║
-╚═══════════════════════════════════════════════════╝
+╔═════════════════════════════════════════════════╗
+║  CRYPTO PROP FIRMS 2026                         ║
+║  Prop firms for trading crypto with             ║
+║  firm capital. FundedNext, FTMO, and            ║
+║  how to spot the scams.                         ║
+╚═════════════════════════════════════════════════╝
 ```
 
 
