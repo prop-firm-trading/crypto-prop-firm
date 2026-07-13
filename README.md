@@ -1,10 +1,12 @@
-
+```
 ╔═══════════════════════════════════════════════════╗
 ║  CRYPTO PROP FIRMS 2026                          ║
 ║  Prop firms for trading crypto with firm         ║
 ║  capital. FundedNext, FTMO, and how to           ║
 ║  spot the scams.                                 ║
 ╚═══════════════════════════════════════════════════╝
+```
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Crypto_Prop_Firms-2026-22c55e?style=for-the-badge" alt="Crypto Prop Firms 2026">
